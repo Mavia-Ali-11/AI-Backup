@@ -1,0 +1,2 @@
+(w+ or r+) mode can both read and write in the file
+This is done using (r+)
